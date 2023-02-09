@@ -1,1 +1,1 @@
-javac -d bin src\*.javagit
+javac -d bin src\*.java
